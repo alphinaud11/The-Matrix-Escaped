@@ -6,7 +6,7 @@ The project is about searching for a solution in an environment that consists of
 
 1. **The world :world_map: :** a grid consisting of cells. Each cell can contain more than one object.
 2. **Neo :superhero_man: :** the main character that the algorithm controls.
-3. **Agents :zombie_man: :** characters that Neo should avoid. 
+3. **Agents :man_pilot: :** characters that Neo should avoid. 
 4. **Hostages :standing_man: :** characters that Neo should save before they get turned into agents.
 5. **Telephone booth :telephone: :** the destination that Neo should reach in order to escape the matrix.
 
