@@ -10,7 +10,7 @@ The project is about searching for a solution in an environment that consists of
 4. **Hostages :standing_man: :** characters that Neo should save before they get turned into agents.
 5. **Launching pads :door: :** pads that Neo could step on to teleport to other cells immediately.
 6. **Health pills :pill: :** pills that Neo could take to restore his health.
-7. **Telephone booth :telephone: :** the destination that Neo should reach in order to escape the matrix.
+7. **Telephone booth :telephone: :** the destination that Neo must reach in order to escape the matrix.
 
 The main mission for Neo is to reach the telephone booth with as many hostages saved as possible.
 
