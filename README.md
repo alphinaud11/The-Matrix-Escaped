@@ -15,7 +15,7 @@ The project is about searching for a solution in an environment that consists of
 The main mission for Neo is to reach the telephone booth with as many hostages saved as possible.
 
 ## Approach
-There are five search strategies used in order to search for a solution:
+The following search strategies are used in order to search for a solution:
 
 * Breadth-first search.
 * Depth-first search.
